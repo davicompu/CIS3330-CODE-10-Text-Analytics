@@ -10,12 +10,11 @@ In a Word or PDF, deliver a report of your analysis. Your report must include th
 
 1. Descriptive analytics report
   *  Describe the dataset you chose in terms of:
-    1. Ratings (1-5 stars)
-    2. Text length
-    3. Text adjectives
-    4. Text nouns
-    5. Text sentiment
-
+        a. Ratings (1-5 stars)
+        b. Text length
+        c. Text adjectives
+        d. Text nouns
+        e. Text sentiment
 2. Text insights report
   * Report 1-2 insights that you obtained from conducting your descriptive analytics report.
   * Report a recommendation that you will advice a customer when deciding about a product you analyzed.
@@ -34,4 +33,4 @@ You need to submit the report in Blackboard and in your code repository. Finally
 
 ## Data disclosure
 
-The data is licensed under public domain and was obtained from the Harvard Dataverse - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W96OFO
+The data is licensed under public domain (CC0 1.0) and was obtained from the Harvard Dataverse - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W96OFO
