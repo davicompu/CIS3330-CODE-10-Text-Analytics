@@ -9,12 +9,12 @@ Text analysis allows the quantification of information from textual datasets. In
 In a Word or PDF, deliver a report of your analysis. Your report must include the following sections.
 
 1. Descriptive analytics report
-  *  Describe the dataset you chose in terms of:
-        a. Ratings (1-5 stars)
-        b. Text length
-        c. Text adjectives
-        d. Text nouns
-        e. Text sentiment
+  *  Describe the dataset you chose in terms of:  
+        a. Ratings (1-5 stars)  
+        b. Text length  
+        c. Text adjectives  
+        d. Text nouns  
+        e. Text sentiment  
 2. Text insights report
   * Report 1-2 insights that you obtained from conducting your descriptive analytics report.
   * Report a recommendation that you will advise a customer when deciding about a product you analyzed.
