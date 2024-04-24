@@ -1,4 +1,4 @@
-## CIS3330-CODE-10-Yelp-API-Text-Analysis
+## CIS3330-CODE-10-Text-Analytics
 
 ## Instructions
 
