@@ -27,6 +27,7 @@ You need to submit the report in Blackboard and in your code repository. Finally
 `for review in reviews: `   
 `    tokens = nltk.word_tokenize(review) # tokenization`  
 `    pos_tags = nltk.pos_tag(tokens) # part of speech`  
+
 * Sentiment analysis with VADER  
 `from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer`  
 `analyzer = SentimentIntensityAnalyzer()`  
